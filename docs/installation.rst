@@ -9,7 +9,7 @@ Installation
 
 Along with actual services, Anthill Platform consists of a lot of
 external components. Configuring them might be quite challenging, so
-using Puppet in recommended.
+using Puppet is recommended.
 
 .. toggle-header::
     :header: **What will be installed**
